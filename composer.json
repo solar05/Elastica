@@ -1,8 +1,7 @@
 {
-    "name": "ruflin/elastica",
-    "description": "Elasticsearch Client",
+    "name": "solar05/elastica",
+    "description": "Fork from ruflin/elastica Elasticsearch Client",
     "keywords": ["search","client"],
-    "homepage": "http://elastica.io/",
     "type": "library",
     "license": "MIT",
     "authors": [
